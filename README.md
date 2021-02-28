@@ -1,4 +1,4 @@
-# Proffy---NLW
+# Proffy
 Esse site foi desenvolvido durante o curso Next Level Week 2, da Rocketseat. Ele tem o objetivo de facilitar o contato entre professores e usuários, facilitando a busca do aluno por profissionais da educação de diferentes áreas, seja para aulas particulares ou podendo até propor ao Proffy uma diferente oferta de trabalho.
 ## :information_source: Como funciona:
 Ao entrar no site, o usuário se depara com a tela principal , onde ele pode optar por se cadastrar como um Proffy ou fazer uma busca.
